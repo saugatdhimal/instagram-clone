@@ -1,0 +1,21 @@
+.LoginForm{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.LoginForm__image1{
+    max-width: 350px;
+    max-height: 100px;
+    margin-top: 10vh;
+}
+.LoginForm__image2{
+    max-width: 350px;
+}
+.LoginForm__button{
+    margin-top: 20px;
+}
+.LoginForm__sign{
+    display: flex;
+    flex-direction: column;
+}
